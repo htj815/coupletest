@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://coupletest.netlify.app/sitemap.xml
